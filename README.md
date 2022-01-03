@@ -11,4 +11,4 @@ $ make
 $ ./bin/csn
 ```
 
-To change the planets or rovers, edir (src/main.c)[src/main.c] and change the rover name and planet name appropriately.
+To change the planets or rovers, edir [src/main.c](src/main.c) and change the rover name and planet name appropriately.
