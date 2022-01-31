@@ -1,6 +1,6 @@
 # Cassini
 
-`Cassini` is an emulation tool for space rovers. It emulates the launch, travel, and landing of rovers on different planets.
+`Cassini` is an emulation tool for space rovers. It emulates the launch, travel, and landing of rovers on different planets. Inspired by the [Jet Propulsion Laboratory](https://jpl.nasa.gov)
 
 ## Usage
 
